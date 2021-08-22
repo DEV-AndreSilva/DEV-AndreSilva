@@ -32,7 +32,7 @@
   
    ![Snake animation](https://github.com/DEV-AndreSilva/DEV-AndreSilva/blob/output/github-contribution-grid-snake.svg)
 
-  
+
 <!-- 
 - 😄 Pronouns: ...
  -⚡ Fun fact: ...
