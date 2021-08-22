@@ -1,4 +1,4 @@
-## Olá, eu sou o André Luis😀
+## Olá, eu sou o André Luis 😀
 
 - 💻 Estou trabalhando atualmente com desenvolvimento Back-end
 - 📚 Estou estudando PHP no momento
