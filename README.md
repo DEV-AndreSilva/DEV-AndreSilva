@@ -4,10 +4,13 @@
 - 📚 Estou estudando PHP no momento
 - 📩 Contate-me pelo email: andreluis2608@gmail.com
 
- <div>
-  <a href="https://github.com/DEV-AndreSilva">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=DEV-AndreSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <div class="row">
+  <div class col-sm-06>
+  <a href="https://github.com/DEV-AndreSilva"> <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=DEV-AndreSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </div>
+    <div class col-sm-06>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-AndreSilva&layout=compact&langs_count=7&theme=dracula"/>
+   </div>
 </div>
 
  <div style="display: inline_block"><br>
