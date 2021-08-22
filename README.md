@@ -12,7 +12,8 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-AndreSilva&layout=compact&langs_count=7&theme=dracula"/>
    </div>
 </div>
-
+<br><br>
+ 
  <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
