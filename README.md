@@ -1,7 +1,7 @@
 ## Olá, eu sou o André Luis 😀
 
 - 💻 Estou trabalhando atualmente com desenvolvimento Back-end
-- 📚 Estou estudando PHP no momento
+- 📚 Estou estudando JavaScript no momento
 - 📩 Contate-me pelo email: andreluis2608@gmail.com
 
  <div style="display: inline_block">
